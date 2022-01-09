@@ -52,7 +52,7 @@ używających biblioteki rresult.
 
 %package devel
 Summary:	Result value combinators for OCaml - development part
-Summary(pl.UTF-8):	Kombinatory wartości wyników dla OCamla - cześć programistyczna
+Summary(pl.UTF-8):	Kombinatory wartości wyników dla OCamla - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
