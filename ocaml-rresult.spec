@@ -11,7 +11,7 @@ Summary:	Result value combinators for OCaml
 Summary(pl.UTF-8):	Kombinatory wartości wyników dla OCamla
 Name:		ocaml-rresult
 Version:	0.7.0
-Release:	1
+Release:	2
 License:	ISC
 Group:		Libraries
 Source0:	https://erratique.ch/software/rresult/releases/rresult-%{version}.tbz
